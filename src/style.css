@@ -1006,6 +1006,9 @@ footer a:visited {
 }
 
 @media (min-width: 640px) {
+  .footer__logo {
+    width: 250px;
+  }
   .footer__section {
     flex-direction: row;
     justify-content: space-between;
