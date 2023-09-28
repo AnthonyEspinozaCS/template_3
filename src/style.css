@@ -889,6 +889,10 @@ header .container {
   flex-direction: column;
 }
 
+.section-contact h2 {
+  font-size: var(--fs-header-s);
+}
+
 .contact-us p {
   max-width: 768px;
   padding: 1rem 0 2rem;
